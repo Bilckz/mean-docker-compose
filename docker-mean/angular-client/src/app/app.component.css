@@ -1,0 +1,29 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.navbar {
+  background: url("https://miro.medium.com/max/640/1*kkXbE9GlS73U7x1iXHP_vQ.png");
+  height: 180px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.docker {
+    background: url("https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png");
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+
+  .margin-20{
+      margin: 20px;
+  }
